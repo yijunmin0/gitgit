@@ -1,4 +1,5 @@
 a
 b
 c
-d
+checkout 2
+c
