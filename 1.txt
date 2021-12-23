@@ -1,5 +1,3 @@
 a
 b
 c
-checkout 2
-c
